@@ -13,9 +13,7 @@ Sistem ini dirancang menggunakan pendekatan **Transfer Learning** dengan arsitek
 
 ## 📸 Tampilan Antarmuka
 
-> *Silakan ganti gambar di bawah ini dengan screenshot dashboard kamu nanti.*
-
-![Tampilan Dashboard](static/dashboard_preview.png)
+![Tampilan Dashboard](FreshLensAI_KlasifikasiBuah_MobileNetV2/Dashboard_klasifikasiBuah.png)
 
 ---
 
